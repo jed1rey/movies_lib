@@ -1,5 +1,5 @@
 Bem-vindo ao FlickSync!
-##https://flicksync.netlify.app/
+https://flicksync.netlify.app/
 =========================
 
 FlickSync é uma plataforma online que oferece uma vasta coleção de filmes para os amantes da sétima arte. Com acesso à API do site The Movie Database (TMDb), nosso site proporciona uma experiência única e dinâmica para descobrir e explorar uma ampla variedade de filmes de diferentes gêneros, diretores e atores.
@@ -38,6 +38,8 @@ FlickSync é uma plataforma online que oferece uma vasta coleção de filmes par
 Desfrute da sua jornada cinematográfica 🎬🍿
 
 ![home](./img/home.png)
+![tela de busca](./img/tela_busca.png)
+![tela de cards](./img/tela_cards.png)
 
 
 
